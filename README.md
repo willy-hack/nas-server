@@ -1,5 +1,7 @@
 # <div align="center">整合型資料庫(Micro NAS Server)</div>
 
+<div align="center"><img src="./i/micro nas server.png" style="width: 200px;"></div>
+
 前文：
 
 Micro NAS Server 是整合了一般資料庫,資料庫管理的開發工具，其中還有各種附加功能，例如：文件編輯, 網頁開發工具
