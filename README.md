@@ -1,10 +1,18 @@
-# <div align="center">整合型資料庫(Micro NAS Server)</div>
+# <div align="center">MNASS(Micro NAS Server)</div>
 
 <div align="center"><img src="./i/micro nas server.png" style="width: 200px;"></div>
 
-前文：
+前情提要：
+
+系統需要使用兩款軟件才可以發揮出最大功效，伺服器端=>Xampp/Laragon, VPN工具=>Tailscale
+
+這些軟件可以發揮此系統的功能，這些軟件經本人實測非常好用安裝便捷，唯一缺點就是目前無法在非Windows系統上面進行系統系統工具安裝，後續會開發出可在Linux系統上面運行的工具，伺服器端運作工具只需要選擇一個即可，VPN工具也可以自行替換
+
+系統概述：
 
 Micro NAS Server 是整合了一般資料庫,資料庫管理的開發工具，其中還有各種附加功能，例如：文件編輯, 網頁開發工具
+
+功能介紹：
 
 資料儲存介面：跟雲端硬碟功能差不多
 
